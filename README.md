@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [nasri.dev/cv](nasri.dev/cv)
 
-- ⚡ Fun fact **I'm a serious gamer :D**
+- ⚡ Fun fact: **I'm a serious gamer :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
