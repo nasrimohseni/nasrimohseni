@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [nasri.dev](https://nasri.dev)
 
-- 📝 I regularly write articles on [nasri.dev/blog](https://nasri.dev/blog)
-
 - 💬 Ask me about **Android, Kotlin and Java**
 
 - 📫 How to reach me **hi@nasri.dev**
@@ -12,6 +10,8 @@
 - 📄 Know about my experiences [nasri.dev/cv](https://nasri.dev/cv)
 
 - ⚡ Fun fact: **I'm a serious gamer :D**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
