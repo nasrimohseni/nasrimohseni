@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nasrullah</h1>
 <h3 align="center">A passionate Android developer from Afghanistan, based in Spain.</h3>
 
-- 👨‍💻 All of my projects are available at [nasri.dev](nasri.dev)
+- 👨‍💻 All of my projects are available at [nasri.dev](https://nasri.dev)
 
-- 📝 I regularly write articles on [nasri.dev/blog](nasri.dev/blog)
+- 📝 I regularly write articles on [nasri.dev/blog](https://nasri.dev/blog)
 
 - 💬 Ask me about **Android, Kotlin and Java**
 
 - 📫 How to reach me **hi@nasri.dev**
 
-- 📄 Know about my experiences [nasri.dev/cv](nasri.dev/cv)
+- 📄 Know about my experiences [nasri.dev/cv](https://nasri.dev/cv)
 
 - ⚡ Fun fact: **I'm a serious gamer :D**
 
