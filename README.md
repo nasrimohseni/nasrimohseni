@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [nasri.dev/cv](https://nasri.dev/cv)
 
-- ⚡ Fun fact: **I'm a serious gamer :D**
-
 
 
 <h3 align="left">Connect with me:</h3>
